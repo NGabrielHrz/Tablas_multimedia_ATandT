@@ -1,0 +1,196 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: Helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+}
+.Herder {
+  background: linear-gradient(70deg,#d012ff ,blue);
+}
+.Logo {
+  display: block;
+  margin: auto;
+  padding: 0px;
+}
+.cuadro {
+  width: 800px;
+  height: 400px;
+  margin: auto;
+  background-color: #F2F2F2;
+}
+.cuadro2 {
+  width: 800px;
+  height: 50px;
+  margin: auto;
+  background-color: #F2F2F2;
+}
+.cuadro3 {
+  width: 800px;
+  height: 50px;
+  margin: auto;
+  background-color: #0071C1;
+}
+.cuadro4 {
+  width: 800px;
+  height: 510px;
+  margin: auto;
+}
+.cuadro5 {
+  width: 800px;
+  height: 510px;
+  margin: auto;
+}
+.h_2 {
+  position: relative;
+  top: 45px;
+}
+.Img {
+  width: 580px;
+  height: 264px;
+  padding: 0px 38px 0px 0px;
+}
+.IMG2 {
+  background-image: url("IMG/banner_publicidad.jpg");
+  background-size: 100% 100%;
+}
+.Img3 {
+  display: block;
+  margin: auto;
+  place-content: center;
+  width: 100px;
+  height: 50px;
+  padding: 0px;
+  margin-top: 45px;
+}
+.Imgs {
+  width: 45px;
+  height: 45px;
+}
+.Imgs2 {
+width: 100px;
+}
+.AltAnch {
+  width: auto;
+  height: 182px;
+}
+.AltAnch2 {
+  width: auto;
+  height: 150px;
+}
+.tabla {
+  /* width: 800px; */
+  margin: auto;
+  text-align: center;
+  border-spacing: 0px;
+}
+.tabla td {
+  border-top: 1px #D4D4D4 solid;
+  border-bottom: 1px #D4D4D4 solid;
+  padding: 3px 40px 3px 40px;
+}
+.tabColor {
+  background-color: #D4D4D4;
+}
+.tabla td:nth-child(5) {
+  padding: 3px 66px 3px 66px;
+  background-color: white;
+}
+.tabla th {
+  color: #036CBD;
+}
+.Ancho1 {
+  width: 120;
+}
+.Ancho2 {
+  width: 320;
+}
+.Fondo1 {
+  background-color: black;
+}
+.Posicion {
+  position: relative;
+  top: 14px;
+}
+.Posicion2 {
+  border: 1px #0077B1 solid;
+  width: 220px;
+  height: 180px;
+  margin: 15px 0px 0px 350px;
+}
+.Posicion3 {
+  position: relative;
+  margin-top: 45px;
+}
+.Posicion4 {
+  border: 1px #3B3B3B solid;
+  width: 220px;
+  height: 150px;
+  margin: auto;
+}
+.Izq{
+  text-align: left;
+}
+.Center {
+  text-align: center;
+}
+.negritas {
+  font-weight: bold;
+}
+.Sinnegritas {
+  font-weight: normal;
+}
+.subrayado {
+  text-decoration: underline;
+}
+.Tab{
+  margin-left: 28px;
+}
+.Fuen {
+  font-family: helvetica;
+}
+.Tam40 {
+  font-size: 40px;
+}
+.Tam32 {
+  font-size: 32px;
+}
+.Tam28 {
+  font-size: 28px;
+}
+.Tam25 {
+  font-size: 25px;
+}
+.Tam19 {
+  font-size: 19px;
+}
+.Tam12 {
+  font-size: 12px;
+}
+.alto {
+  height: 10px;
+}
+.SinFuente {
+  color: white;
+}
+nav {
+  display: block;
+  text-align: center;
+}
+.SinDecora {
+  text-decoration: none;
+  color: black;
+}
+.Color {
+  color: #036CBD;
+}
+.Color2 {
+  background-color: #3B3B3B;
+}
+.borde {
+  border: red solid;
+}
